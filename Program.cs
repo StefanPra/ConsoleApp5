@@ -6,7 +6,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helloc World!");
+            Console.WriteLine("Helloc Weeeorld!");
         }
     }
 }
